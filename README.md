@@ -1,6 +1,5 @@
 # <img src="https://avatars.githubusercontent.com/u/108289642?s=200&v=4" alt="Logo Santander" height=24> Santander Bootcamp DIO <img src="https://avatars.githubusercontent.com/u/26231823?s=200&v=4" alt="Logo DIO" height=24> - Pokedex <img src="./public/favicon64x64.png" height=24>
-Este repositório tem o objetivo de guardar o meu código do desafio (lab) do curso "Primeiras Páginas Interativas ocm Javascript" do bootcamp santander Java + Angular, ministrado pela [DIO](https://www.dio.me/).
-
+Este repositório tem o objetivo de guardar o meu código do desafio (lab) do curso "Primeiras Páginas Interativas com Html, CssJavascript".
 ## ⛳ Sobre o Desafio
 O desafio consiste em pegar o código previamente feito em curso, pelo expert [Renan Johannsen](https://github.com/RenanJPaula) e forkado diretamente do repositório [js-developer-pokedex](https://github.com/digitalinnovationone/js-developer-pokedex), e adicionar a feature de mostrar os detalhes do pokemon selecionado.
 
